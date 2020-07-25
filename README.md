@@ -14,7 +14,12 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 👨🏼‍💻 Specialist Intern (Education) @ [Microsoft](https://github.com/microsoft)  
 🦉 Lead Software Engineer @ [Save.Nemo](https://github.com/save-nemo-org)
 
-#### More About Me
+
+<details>
+
+<summary>Expand: More About Me...</summary>
+
+<p>
 
 ```javascript
 const olaf = {
@@ -30,12 +35,6 @@ const olaf = {
   challenge: "This year, I want to launch a SaaS app, learn Deno, understand production monitoring KPIs.. and graduate from university.",
 };
 ```
-
-<details>
-
-<summary>Expand Recent Projects...</summary>
-
-<p>
 	
 #### 🌏 Nemo Cloud
 
