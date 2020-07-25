@@ -67,7 +67,7 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 	<img align="left" src="https://raw.github.com/olafwrieden/olafwrieden/master/images/seer.png" width="300">
 </a>
 
-Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://www.finappster.co.nz), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
+Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://seer-repo.herokuapp.com), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
 
 </p>
 </details>
