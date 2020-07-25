@@ -1,10 +1,10 @@
 ![Banner](./images/banner.png)
 
-![LinkedIn: olafwrieden](https://img.shields.io/badge/olafwrieden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olafwrieden/)
+[![Linkedin: olafwrieden](https://img.shields.io/badge/-olafwrieden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olafwrieden/)](https://www.linkedin.com/in/olafwrieden/)
 
 ### `👋🏼 Hi there..`
 
-Welcome to GitHub :octocat: profile. I am [Olaf Wrieden](https://www.linkedin.com/in/olafwrieden), a **#software-engineer** and **#startup-guru**. I translate nebulous ideas into innovative and globally impactful solutions.
+Welcome to my GitHub :octocat: profile. I am [Olaf Wrieden](https://www.linkedin.com/in/olafwrieden), a **#software-engineer** and **#startup-guru**. I translate nebulous ideas into innovative and globally impactful solutions.
 
 Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `Entrepreneurship` `Great Ideas`
 
@@ -35,7 +35,7 @@ const olaf = {
 
 <summary>Expand Recent Projects...</summary>
 
-#### Nemo Cloud
+#### 🌏 Nemo Cloud
 
 <a href="https://nemo-pi.com">
 	<img align="left" src="./images/nemocloud.jpg" width="300">
@@ -43,7 +43,7 @@ const olaf = {
 
 At Save Nemo, the team builds and deploys affordable, self-sustaining mooring buoys in coastal regions worst affected by climate change. These buoys include sensors up and down the mooring to collect data in near-real time and ping the telemetry back via cellular uplink. [Nemo Cloud](https://nemo-pi.com) is the dashboard where our IoT data is made available for monitoring. For our solution we won the Google Social Impact Challenge 2018 and were placed 23rd / 2600 applicants at the Google AI for Social Good Challenge.
 
-#### Finappster
+#### 💵 Finappster
 
 <a href="https://www.finappster.co.nz">
 	<img align="left" src="./images/finappster.png" width="300">
@@ -51,7 +51,7 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 
 [Finappster](https://www.finappster.co.nz) is a New Zealand fintech startup that aims to provide retail investors with strategic value-aligned investment insight and greater investment transparency. It facilitates the ease of understanding as to how socially responsible individual funds are. Responsible Investing (also known as socially responsible investing, ethical investing, and impact investing) has become a large focus in recent years.
 
-#### SEER
+#### 🔍 SEER
 
 <a href="https://seer-repo.herokuapp.com">
 	<img align="left" src="./images/seer.png" width="300">
