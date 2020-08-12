@@ -23,7 +23,7 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 
 ```javascript
 const olaf = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [JavaScript, TypeScript, Java, Python, C],
   tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
   architecture: ["microservices", "event-driven", "layered"],
