@@ -36,6 +36,10 @@ const olaf = {
 };
 ```
 
+#### Industry Certifications
+![AZ-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-az-900.png)
+![AI-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-ai-900.png)
+
 #### Recent Projects
 
 #### 🌏 Nemo Cloud
@@ -71,3 +75,7 @@ Have you ever wondered if Test-Driven Development actually improves code quality
 
 </p>
 </details>
+
+#### Proud Contributions
+![Microsoft-Hackathon-2020](https://raw.github.com/olafwrieden/olafwrieden/master/images/microsoft-hackathon-2020.png)
+![Microsoft-Accessibility_in-Action](https://raw.github.com/olafwrieden/olafwrieden/master/images/microsoft-accessibility-in-action.png)
