@@ -14,7 +14,6 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 👨🏼‍💻 Specialist Intern (Education) @ [Microsoft](https://github.com/microsoft)  
 🦉 Lead Software Engineer @ [Save.Nemo](https://github.com/save-nemo-org)
 
-
 <details>
 
 <summary>Expand: More About Me...</summary>
@@ -80,3 +79,7 @@ Have you ever wondered if Test-Driven Development actually improves code quality
 ![Microsoft-Hackathon-2020](https://raw.github.com/olafwrieden/olafwrieden/master/images/microsoft-hackathon-2020.png)
 ![Microsoft-Accessibility_in-Action](https://raw.github.com/olafwrieden/olafwrieden/master/images/microsoft-accessibility-in-action.png)
 </details>
+
+
+#### Make My Day
+<a href="https://www.buymeacoffee.com/olafwrieden" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
