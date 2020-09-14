@@ -1,8 +1,9 @@
 ![Banner](https://raw.github.com/olafwrieden/olafwrieden/master/images/banner.png)
 
-[![Linkedin: olafwrieden](https://img.shields.io/badge/-olafwrieden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olafwrieden/)](https://www.linkedin.com/in/olafwrieden/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olafwrieden/)
+![Repos Badge](https://badges.pufler.dev/repos/olafwrieden?style=for-the-badge&color=red)
 
-### `👋🏼 Hi there..`
+## `👋🏼 Hi there..`
 
 Welcome to my GitHub :octocat: profile. I am [Olaf Wrieden](https://www.linkedin.com/in/olafwrieden), a **#software-engineer** and **#startup-guru**. I translate nebulous ideas into innovative and globally impactful solutions.
 
@@ -13,7 +14,6 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 🎓 Final-year Computer Science and Business Strategy student @ [Auckland University of Technology](https://www.aut.ac.nz) (Dec 2020)  
 👨🏼‍💻 Specialist Intern (Education) @ [Microsoft](https://github.com/microsoft)  
 🦉 Lead Software Engineer @ [Save.Nemo](https://github.com/save-nemo-org)
-
 
 <details>
 
@@ -32,7 +32,8 @@ const olaf = {
     speaker: "SeniorNet New Zealand",
     mentor: ["Student Peer Mentor", "Local Hackathon(s) Mentor"],
   },
-  challenge: "This year, I want to launch a SaaS app, learn Deno, understand production monitoring KPIs.. and graduate from university.",
+  challenge:
+    "This year, I want to launch a SaaS app, learn Deno, understand production monitoring KPIs.. and graduate from university.",
 };
 ```
 
@@ -50,7 +51,6 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 <p>
 
 #### 💵 Finappster
-
 
 <a href="https://www.finappster.co.nz">
 	<img align="left" src="https://raw.github.com/olafwrieden/olafwrieden/master/images/finappster.png" width="300">
