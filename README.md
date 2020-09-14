@@ -23,7 +23,7 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 
 ```javascript
 const olaf = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [JavaScript, TypeScript, Java, Python, C],
   tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
   architecture: ["microservices", "event-driven", "layered"],
@@ -36,6 +36,10 @@ const olaf = {
     "This year, I want to launch a SaaS app, learn Deno, understand production monitoring KPIs.. and graduate from university.",
 };
 ```
+
+#### Industry Certifications
+![AZ-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-az-900.png)
+![AI-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-ai-900.png)
 
 #### Recent Projects
 
@@ -67,7 +71,16 @@ At Save Nemo, the team builds and deploys affordable, self-sustaining mooring bu
 	<img align="left" src="https://raw.github.com/olafwrieden/olafwrieden/master/images/seer.png" width="300">
 </a>
 
-Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://www.finappster.co.nz), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
+Have you ever wondered if Test-Driven Development actually improves code quality? There is a lot of evidence documented in research papers but this is unavailable to many commercial software engineers because it is behind a paywall, is written in unfamiliar academic language, and requires high effort to find the trends. With [SEER](https://seer-repo.herokuapp.com), you to browse a list of empirical research articles via a simple search for "TDD" and "Code Quality", then view summaries of each evidence related to the study, its measures and the results.
 
 </p>
+
+
+#### Proud Contributions
+![Microsoft-Hackathon-2020](https://raw.github.com/olafwrieden/olafwrieden/master/images/microsoft-hackathon-2020.png)
+![Microsoft-Accessibility_in-Action](https://raw.github.com/olafwrieden/olafwrieden/master/images/microsoft-accessibility-in-action.png)
 </details>
+
+
+#### Make My Day
+<a href="https://www.buymeacoffee.com/olafwrieden" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
