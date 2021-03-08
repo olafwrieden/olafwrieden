@@ -11,7 +11,7 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 
 #### University and Work
 
-🎓 Graduated: Computer Science and Business Strategy @ [Auckland University of Technology](https://www.aut.ac.nz) 
+🎓 Graduated: Computer Science and Business Strategy @ [Auckland University of Technology](https://www.aut.ac.nz)  
 👨🏼‍💻 Cloud Solution Architect (Data & AI) @ [Microsoft](https://github.com/microsoft)  
 🦉 Lead Software Engineer @ [Save.Nemo](https://github.com/save-nemo-org)
 
