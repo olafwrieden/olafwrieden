@@ -11,8 +11,8 @@ Ask me about: `Grabbing a Coffee` `Mentoring` `Product Management` `Startups` `E
 
 #### University and Work
 
-🎓 Final-year Computer Science and Business Strategy student @ [Auckland University of Technology](https://www.aut.ac.nz) (Dec 2020)  
-👨🏼‍💻 Specialist Intern (Education) @ [Microsoft](https://github.com/microsoft)  
+🎓 Graduated: Computer Science and Business Strategy @ [Auckland University of Technology](https://www.aut.ac.nz) 
+👨🏼‍💻 Cloud Solution Architect (Data & AI) @ [Microsoft](https://github.com/microsoft)  
 🦉 Lead Software Engineer @ [Save.Nemo](https://github.com/save-nemo-org)
 
 <details>
