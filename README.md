@@ -1,6 +1,7 @@
 ![Banner](https://raw.github.com/olafwrieden/olafwrieden/master/images/banner.png)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olafwrieden/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@olafwrieden/)
 ![Repos Badge](https://badges.pufler.dev/repos/olafwrieden?style=for-the-badge&color=red)
 
 ## `👋🏼 Hi there..`
