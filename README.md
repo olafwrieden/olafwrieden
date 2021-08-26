@@ -42,6 +42,7 @@ const olaf = {
 
 ![AZ-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-az-900.png)
 ![AI-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-ai-900.png)
+![PL-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-pl-900.png)
 
 #### Recent Projects
 
