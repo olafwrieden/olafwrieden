@@ -40,9 +40,7 @@ const olaf = {
 
 #### Industry Certifications
 
-![AZ-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-az-900.png)
-![AI-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-ai-900.png)
-![PL-900](https://raw.github.com/olafwrieden/olafwrieden/master/images/azure-pl-900.png)
+![Certifications](https://raw.github.com/olafwrieden/olafwrieden/master/images/certifications.png)
 
 #### Recent Projects
 
